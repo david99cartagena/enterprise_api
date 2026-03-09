@@ -4,6 +4,10 @@ API REST desarrollada en **ASP .NET Core** para la gestión de **empresas y cód
 
 Este proyecto fue construido como parte de una **prueba técnica backend**, aplicando buenas prácticas de arquitectura y desarrollo en .NET.
 
+### Vista general de la API
+
+![swagger](https://raw.githubusercontent.com/david99cartagena/enterprise_api/refs/heads/main/EnterpriseApi/images/Screenshot_1.png)
+
 ## ⚙️ Stack Tecnológico
 
 **Backend**
@@ -153,12 +157,20 @@ Swagger: http://localhost:5294/swagger/index.html
 
 ### Vista general de la API
 
-![swagger](images/swagger_overview.png)
+![swagger](https://raw.githubusercontent.com/david99cartagena/enterprise_api/refs/heads/main/EnterpriseApi/images/Screenshot_1.png)
 
 ### Crear empresa
 
-![swagger](images/create_enterprise.png)
+![swagger](https://raw.githubusercontent.com/david99cartagena/enterprise_api/refs/heads/main/EnterpriseApi/images/Screenshot_2.png)
 
 ### Crear código
 
-![swagger](images/create_code.png)
+![swagger](https://raw.githubusercontent.com/david99cartagena/enterprise_api/refs/heads/main/EnterpriseApi/images/Screenshot_3.png)
+
+### Obtener empresa por ID
+
+![swagger](https://raw.githubusercontent.com/david99cartagena/enterprise_api/refs/heads/main/EnterpriseApi/images/Screenshot_4.png)
+
+### Obtener código por ID
+
+![swagger](https://raw.githubusercontent.com/david99cartagena/enterprise_api/refs/heads/main/EnterpriseApi/images/Screenshot_5.png)
